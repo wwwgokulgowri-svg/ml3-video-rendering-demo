@@ -1,3 +1,4 @@
+
 # ML-3 Video Rendering Demo
 
 ## Description
@@ -17,3 +18,6 @@ Run:
 
 Output will be saved in:
 output/final_demo.mp4
+=======
+# ml3-video-rendering-demo
+
